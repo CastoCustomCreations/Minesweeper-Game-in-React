@@ -11,7 +11,7 @@ const thumbCSS = css`
 const Slider = styled.input.attrs({
 	type: 'range'
 })`
-	background-color: lightgreen;
+	background-color: skyblue;
 	outline: none;
 	width: 100%;
 	height: 20px;
