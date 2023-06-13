@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbsp1221/react-minesweeper-game.git"
+    "url": "git+https://github.com/CastoCustomCreations/Minesweeper-Game-in-React.git"
   },
   "author": "nbsp1221",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nbsp1221/react-minesweeper-game/issues"
+    "url": "https://github.com/CastoCustomCreations/Minesweeper-Game-in-React/issues"
   },
-  "homepage": "https://github.com/nbsp1221/react-minesweeper-game#readme",
+  "homepage": "https://github.com/CastoCustomCreations/Minesweeper-Game-in-React#readme",
   "dependencies": {
     "immer": "8.0.4",
     "react": "16.14.0",
